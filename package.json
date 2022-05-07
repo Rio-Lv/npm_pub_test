@@ -1,0 +1,12 @@
+{
+    "type": "module",
+    "name": "npm-pub-test-riolv",
+    "version": "0.0.1",
+    "description": "Testing how to create a NPM package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
