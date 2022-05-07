@@ -4,9 +4,17 @@
     "version": "0.0.2",
     "description": "Testing how to create a NPM package",
     "main": "index.js",
+    "types": "index.d.ts",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc"
     },
     "author": "",
-    "license": "ISC"
+    "repository": {
+        "url": "https://github.com/Rio-Lv/npm_pub_test"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.6.4"
+    }
 }
