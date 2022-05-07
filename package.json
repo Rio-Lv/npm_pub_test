@@ -1,7 +1,7 @@
 {
     "type": "module",
     "name": "npm-pub-test-riolv",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Testing how to create a NPM package",
     "main": "index.js",
     "scripts": {
